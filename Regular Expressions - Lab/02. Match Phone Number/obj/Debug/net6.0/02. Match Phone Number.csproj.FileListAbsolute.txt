@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.exe
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.deps.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.runtimeconfig.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.AssemblyInfo.cs
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net6.0\refint\02. Match Phone Number.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.genruntimeconfig.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net6.0\ref\02. Match Phone Number.dll

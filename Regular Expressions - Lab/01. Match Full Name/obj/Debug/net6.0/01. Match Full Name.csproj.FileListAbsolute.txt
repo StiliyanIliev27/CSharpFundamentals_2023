@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.exe
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.deps.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.runtimeconfig.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.AssemblyInfo.cs
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\refint\01. Match Full Name.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.genruntimeconfig.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\ref\01. Match Full Name.dll
