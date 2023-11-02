@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net6.0\01. Randomize Words.exe
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net6.0\01. Randomize Words.deps.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net6.0\01. Randomize Words.runtimeconfig.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net6.0\01. Randomize Words.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net6.0\01. Randomize Words.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net6.0\01. Randomize Words.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net6.0\01. Randomize Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net6.0\01. Randomize Words.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net6.0\01. Randomize Words.AssemblyInfo.cs
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net6.0\01. Randomize Words.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net6.0\01. Randomize Words.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net6.0\refint\01. Randomize Words.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net6.0\01. Randomize Words.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net6.0\01. Randomize Words.genruntimeconfig.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net6.0\ref\01. Randomize Words.dll

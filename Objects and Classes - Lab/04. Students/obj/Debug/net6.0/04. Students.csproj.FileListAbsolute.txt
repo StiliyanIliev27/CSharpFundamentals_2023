@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\bin\Debug\net6.0\04. Students.exe
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\bin\Debug\net6.0\04. Students.deps.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\bin\Debug\net6.0\04. Students.runtimeconfig.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\bin\Debug\net6.0\04. Students.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\bin\Debug\net6.0\04. Students.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\obj\Debug\net6.0\04. Students.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\obj\Debug\net6.0\04. Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\obj\Debug\net6.0\04. Students.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\obj\Debug\net6.0\04. Students.AssemblyInfo.cs
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\obj\Debug\net6.0\04. Students.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\obj\Debug\net6.0\04. Students.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\obj\Debug\net6.0\refint\04. Students.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\obj\Debug\net6.0\04. Students.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\obj\Debug\net6.0\04. Students.genruntimeconfig.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\04. Students\obj\Debug\net6.0\ref\04. Students.dll

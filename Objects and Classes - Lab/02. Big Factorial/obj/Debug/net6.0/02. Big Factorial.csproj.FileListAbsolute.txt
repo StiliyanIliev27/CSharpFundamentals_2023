@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.exe
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.deps.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.runtimeconfig.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.AssemblyInfo.cs
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\refint\02. Big Factorial.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.genruntimeconfig.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\ref\02. Big Factorial.dll
