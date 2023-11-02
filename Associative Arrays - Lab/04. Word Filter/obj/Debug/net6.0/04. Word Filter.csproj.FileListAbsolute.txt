@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.exe
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.deps.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.runtimeconfig.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.AssemblyInfo.cs
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\refint\04. Word Filter.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.genruntimeconfig.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\ref\04. Word Filter.dll
