@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.exe
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.deps.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.runtimeconfig.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.AssemblyInfo.cs
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\refint\05. Digits, Letters and Other.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.genruntimeconfig.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\ref\05. Digits, Letters and Other.dll

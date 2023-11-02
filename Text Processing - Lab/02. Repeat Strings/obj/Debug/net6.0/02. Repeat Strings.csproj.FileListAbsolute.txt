@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.exe
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.deps.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.runtimeconfig.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfo.cs
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\refint\02. Repeat Strings.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.genruntimeconfig.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\ref\02. Repeat Strings.dll

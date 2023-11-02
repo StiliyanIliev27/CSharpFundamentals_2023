@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\bin\Debug\net6.0\03. Substring.exe
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\bin\Debug\net6.0\03. Substring.deps.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\bin\Debug\net6.0\03. Substring.runtimeconfig.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\bin\Debug\net6.0\03. Substring.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\bin\Debug\net6.0\03. Substring.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\obj\Debug\net6.0\03. Substring.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\obj\Debug\net6.0\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\obj\Debug\net6.0\03. Substring.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\obj\Debug\net6.0\03. Substring.AssemblyInfo.cs
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\obj\Debug\net6.0\03. Substring.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\obj\Debug\net6.0\03. Substring.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\obj\Debug\net6.0\refint\03. Substring.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\obj\Debug\net6.0\03. Substring.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\obj\Debug\net6.0\03. Substring.genruntimeconfig.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\03. Substring\obj\Debug\net6.0\ref\03. Substring.dll

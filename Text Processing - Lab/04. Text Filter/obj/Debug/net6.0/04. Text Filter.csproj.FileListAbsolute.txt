@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\bin\Debug\net6.0\04. Text Filter.exe
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\bin\Debug\net6.0\04. Text Filter.deps.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\bin\Debug\net6.0\04. Text Filter.runtimeconfig.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\bin\Debug\net6.0\04. Text Filter.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\bin\Debug\net6.0\04. Text Filter.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.AssemblyInfo.cs
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\refint\04. Text Filter.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.genruntimeconfig.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpFundamentals_2023\Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\ref\04. Text Filter.dll
