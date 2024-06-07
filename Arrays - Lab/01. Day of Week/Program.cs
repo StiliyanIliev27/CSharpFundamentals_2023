@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             string[] dayOfTheWeek = { "Monday", "Tuesday", "Wednesday",
                 "Thursday", "Friday", "Saturday", "Sunday" };
